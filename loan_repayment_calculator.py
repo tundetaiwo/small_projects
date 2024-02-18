@@ -1,3 +1,12 @@
+"""
+Description:
+    Script to calculate when a loan will be paid back given regular repayments and how much interest is paid in total.
+    To find out current interest rates of student loans check here:
+    https://www.gov.uk/repaying-your-student-loan/what-you-pay#:~:text=Interest,Postgraduate%20Loan%20plan
+Author:
+    Tunde Taiwo
+"""
+
 # %%
 # -- Imports -- #
 import logging
